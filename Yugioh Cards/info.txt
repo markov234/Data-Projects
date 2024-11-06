@@ -1,0 +1,7 @@
+2024-07-28T12:01:15.012569
+
+cards.csv = list of all cards
+cards_cardsets.csv = list of card id's and the set id's they belong to
+cardsets.csv = list of set id's and the set name they match to
+
+cards_variants.csv = not sure, maybe just cards with multiple variants for some 50-100 cards
